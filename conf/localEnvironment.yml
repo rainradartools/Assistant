@@ -1,0 +1,13 @@
+environmentVariables:
+  sourceBucket: ""
+  targetBucket: ""
+  configBucket: ""
+  radarFactsKey: ""
+  encryption: "OFF"
+  kmsKeyId: ""
+  maxTimesliceMins: ""
+
+
+aws:
+  namedProfile: ""
+  region: "ap-southeast-2"
